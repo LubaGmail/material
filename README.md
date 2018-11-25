@@ -1,3 +1,41 @@
+# React multi-step app + Material UI
+
+## Install
+    create-react-app material
+    npm i -- save material-ui
+    npm start
+
+## Tuts
+    https://www.youtube.com/watch?v=zT62eVxShsY
+
+## Shortcut
+rcc [enter]
+
+## Square bracket []
+    This syntax is just another way to set the key of an object without knowing ahead of time what you want it to be called.
+
+    For instance, these two examples accomplish the same thing:
+
+    const myNewObject = {
+        name: 'Joe',
+        age: 30
+    }
+    …
+
+    const propName = 'age'
+
+    const myNewObject = {
+        name: 'Joe',
+        [propName]: 30
+    }
+
+
+
+
+
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
